@@ -155,6 +155,7 @@
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\DbCoffeeContext.cs" />
     <Compile Include="Models\Employees.cs" />
+    <Compile Include="Models\exampleModel.cs" />
     <Compile Include="Models\ManageSale.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
