@@ -10,5 +10,8 @@ namespace coffeeSalesManag_CompApp.Models
     {
         public int ExampleProperty { get; set; }
 
+        public string AnotherExampleProperty { get; set; }
+
+
     }
 }
